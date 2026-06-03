@@ -2,8 +2,6 @@
 
 Computer Engineering Student
 
-My goal is to become an NLP Engineer.
-
 ## Completed Projects
 
 ### Word Counter
