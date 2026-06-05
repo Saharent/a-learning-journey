@@ -4,17 +4,21 @@ Computer Engineering Student
 
 ## Completed Projects
 
-### Word Counter
+# Word Counter
 
-A simple preprocessing project.
+A beginner project written in Python.
 
-Features:
-- Text cleaning
-- Regex preprocessing
-- Word frequency counting
+## Features
+
+- Text preprocessing
+- Regex cleaning
+- Word frequency analysis
 - Unique word counting
+- Average word length
+- Lexical diversity calculation
 
-Technologies:
+## Technologies
+
 - Python
 - Regex
 - Dictionaries
