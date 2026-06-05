@@ -1,4 +1,4 @@
-# NLP Learning Journey
+# a Learning Journey
 
 Computer Engineering Student
 
@@ -6,7 +6,7 @@ Computer Engineering Student
 
 ### Word Counter
 
-A simple NLP preprocessing project.
+A simple preprocessing project.
 
 Features:
 - Text cleaning
