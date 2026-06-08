@@ -8,7 +8,7 @@ This repo documents my progress in **Python, Machine Learning, and AI projects**
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 The main goals of this repository are:
 
@@ -20,7 +20,7 @@ The main goals of this repository are:
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Python programming fundamentals  
 - Data analysis with Pandas and NumPy  
@@ -31,7 +31,7 @@ The main goals of this repository are:
 
 ---
 
-## 🧪 Projects & Practice
+##  Projects & Practice
 
 This repository includes:
 
@@ -42,7 +42,7 @@ This repository includes:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python 🐍  
 - Scikit-learn 🤖  
@@ -52,7 +52,7 @@ This repository includes:
 
 ---
 
-## 🚀 Progress Log
+##  Progress Log
 
 - ✅ Day 1: Environment setup + first ML model  
 - ✅ Day 2: Logistic Regression practice  
@@ -60,10 +60,10 @@ This repository includes:
 
 ---
 
-## 📌 Note
+##  Note
 
 This repository is continuously updated as I learn new concepts and improve my skills.
 
 ---
 
-⭐ Thanks for visiting this repository!
+ Thanks for visiting this repository!
