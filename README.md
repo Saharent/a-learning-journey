@@ -1,5 +1,9 @@
 # 🧠 A Learning Journey
+
 computer engineering student
+
+---
+
 This repo documents my progress in **Python, Machine Learning, and AI projects**.
 
 ---
