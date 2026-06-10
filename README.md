@@ -52,14 +52,6 @@ This repository includes:
 
 ---
 
-##  Progress Log
-
-- ✅ Day 1: Environment setup + first ML model  
-- ✅ Day 2: Logistic Regression practice  
-- ⏳ More updates coming soon...
-
----
-
 ##  Note
 
 This repository is continuously updated as I learn new concepts and improve my skills.
