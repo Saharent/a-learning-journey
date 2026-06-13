@@ -51,6 +51,23 @@ This repository includes:
 - Git & GitHub 🔧  
 
 ---
+## Progress
+
+### Completed
+- Text Cleaning
+- Regex Basics
+- Bag of Words
+- Count Vectorization
+- Spam Detection (Rule-Based)
+- Spam Detection (ML-Based)
+
+### Current Learning
+- Scikit-Learn
+- Train/Test Split
+- Model Evaluation
+
+
+
 
 ##  Note
 
