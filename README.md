@@ -60,7 +60,8 @@ This repository includes:
 - Count Vectorization
 - Spam Detection (Rule-Based)
 - Spam Detection (ML-Based)
-
+- Introduction to Word Embeddings
+- 
 ### Current Learning
 - Scikit-Learn
 - Train/Test Split
